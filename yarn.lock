@@ -2391,6 +2391,11 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
+flux-entities@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/flux-entities/-/flux-entities-0.0.6.tgz#41a97e432edbd907d759ad6f2d26cff77bad398a"
+  integrity sha512-vxBSUR6kviO2S3XXe0TPGKp1+A0KQPdtP9CTes5GGMhkrGd4K6eRGGYxCkyISivMwb6CXAFrf6rymvNitYoUoA==
+
 follow-redirects@^1.0.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
