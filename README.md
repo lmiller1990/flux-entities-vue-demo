@@ -1,29 +1,6 @@
-# flux-entities-example-vue
+This is example app using the `flux-entities` pattern, build with Vue and Vuex and TypeScript. `src/store.ts` and `src/UsersContainer.vue` are the interesting parts.
 
-## Project setup
-```
-yarn install
-```
+Read the motivation and docs for `flux-entities` [here](https://github.com/lmiller1990/flux-entities).
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+On NPM: https://www.npmjs.com/package/flux-entities
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
