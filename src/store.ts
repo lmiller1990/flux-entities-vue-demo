@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex, { Module } from 'vuex'
-import { IAjaxState } from 'flux-entities'
+import { AjaxBaseState } from 'flux-entities'
 
 Vue.use(Vuex)
 
@@ -14,7 +14,7 @@ type TError = {
   message: string
 }
 
-interface IUsersState extends IAjaxState<IUser, TError> {}
+interface IUsersState extends AjaxBaseState<IUser, TError> {}
 
 const initialUsersState: IUsersState = {
   all: {},

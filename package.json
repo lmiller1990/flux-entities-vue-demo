@@ -7,14 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "flux-entities": "^0.0.6",
+    "flux-entities": "^0.0.21",
     "vue": "^2.6.10",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-typescript": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
-    "typescript": "^3.4.3",
+    "typescript": "^3.8.3",
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {

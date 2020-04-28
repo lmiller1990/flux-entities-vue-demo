@@ -2391,10 +2391,10 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
-flux-entities@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/flux-entities/-/flux-entities-0.0.6.tgz#41a97e432edbd907d759ad6f2d26cff77bad398a"
-  integrity sha512-vxBSUR6kviO2S3XXe0TPGKp1+A0KQPdtP9CTes5GGMhkrGd4K6eRGGYxCkyISivMwb6CXAFrf6rymvNitYoUoA==
+flux-entities@^0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/flux-entities/-/flux-entities-0.0.21.tgz#69a3446cea57cded656a3cfecc3d78605c844c02"
+  integrity sha512-6wwxImQrW7rT+lQ9OaLAKDaQ/wMQqsO+tzGZBGlUxhtgG3OSAXAnDG/vQrUdp6uSymHBtthG9hlTnnuvALznYA==
 
 follow-redirects@^1.0.0:
   version "1.7.0"
@@ -6048,10 +6048,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.4.3:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.1.tgz#ba72a6a600b2158139c5dd8850f700e231464202"
-  integrity sha512-64HkdiRv1yYZsSe4xC1WVgamNigVYjlssIoaH2HcZF0+ijsk5YK2g0G34w9wJkze8+5ow4STd22AynfO6ZYYLw==
+typescript@^3.8.3:
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
+  integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
 uglify-js@3.4.x:
   version "3.4.10"
